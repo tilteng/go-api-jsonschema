@@ -13,7 +13,7 @@
 		},
 		{
 			"ImportPath": "github.com/tilteng/go-api-router/api_router",
-			"Rev": "ece65601f9cf774e4711f951020161ae29fe225a"
+			"Rev": "618577d2ef49b82d2ab333ca0cafdd3b7aa7f7f7"
 		},
 		{
 			"ImportPath": "github.com/tilteng/go-logger/logger",
