@@ -13,11 +13,11 @@
 		},
 		{
 			"ImportPath": "github.com/tilteng/go-api-router/api_router",
-			"Rev": "618577d2ef49b82d2ab333ca0cafdd3b7aa7f7f7"
+			"Rev": "e763006b3c2789b581fb5beba34bcbb860be22b1"
 		},
 		{
 			"ImportPath": "github.com/tilteng/go-logger/logger",
-			"Rev": "72cf7202baa7a53b73bb5d287e00e88c2cb3cc18"
+			"Rev": "8348e6844b648783fd0a5c79545f605c826e231f"
 		},
 		{
 			"ImportPath": "github.com/xeipuuv/gojsonpointer",
